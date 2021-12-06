@@ -34,3 +34,4 @@ end
 
 puts "\nAnswer is #{count}"
 
+file.close

@@ -23,3 +23,5 @@ end
 
 puts "Horizontal Position: #{horizontal_pos}, Depth Position: #{depth_pos}"
 puts "Answer is: #{horizontal_pos * depth_pos}"
+
+file.close
